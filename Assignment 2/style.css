@@ -1,0 +1,28 @@
+*{
+    background: #f5f0e1;
+}
+#all{
+    padding-left: 12%;
+    padding-right: 12%;
+}
+.heading-3{
+    color:black;
+    font-style: italic;
+    margin: 10px;
+}
+.para-3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+    font-size: 17px;
+    margin: 10px;
+    text-align: justify;
+    padding-top: 15px;
+}
+.child-3{
+    padding: 5px;
+    margin: 15px;
+}
+.child-3, .child-3 h1, .child-3 p{
+    background: darkgreen;
+}
+
